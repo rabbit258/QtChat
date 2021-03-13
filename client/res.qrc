@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>image/bold.PNG</file>
+        <file>image/color.PNG</file>
+        <file>image/font.PNG</file>
+        <file>image/underline.PNG</file>
+    </qresource>
+</RCC>
